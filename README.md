@@ -31,5 +31,7 @@ sudo apt-get install screen
 screen sh stream.sh
 ```
 
+## Results 
+
 This will allow you to detach from the terminal and leave the stream running in the background.
 ![camera](https://github.com/mariasaavedra/raspberry-pi-video-stream/assets/3259642/ae90610e-c21f-4138-b1e4-5c2557ecbef1)
